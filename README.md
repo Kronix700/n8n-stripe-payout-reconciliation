@@ -4,7 +4,7 @@ Deterministic 5-node **n8n** workflow that listens to Stripe `payout.paid` event
 
 ![n8n Stripe Payout Reconciliation Workflow](https://raw.githubusercontent.com/Kronix700/n8n-stripe-payout-reconciliation/main/Stripe_Nodes.jpg)
 
-> **Turnkey Deployment Kit:** Download the ready-to-import `.json` workflow, 13-column `.csv` ledger template, and setup manual on [Payhip](https://payhip.com/Kronix700).
+> **Turnkey Deployment Kit:** Download the ready-to-import `.json` workflow, 13-column `.csv` ledger template, and setup manual directly on [Payhip](https://payhip.com/b/wV3ov).
 
 ## Pipeline Architecture
 
@@ -74,4 +74,4 @@ reconciled_at,payout_id,arrival_date,currency,transaction_count,gross_sales,refu
 
 ## Download Package
 
-* **[Get the n8n Stripe Payout Reconciliation Kit on Payhip](https://payhip.com/Kronix700)** — Includes `stripe-payout-reconciliation-n8n.json`, `Stripe_Payout_Ledger_Template.csv`, and `Stripe_Setup_Guide.pdf`.
+* **[Get the n8n Stripe Payout & Fee Reconciliation Kit ($34 USD Single / $79 USD Multi-Client)](https://payhip.com/b/wV3ov)** — Includes `stripe-payout-reconciliation-n8n.json`, `Stripe_Payout_Ledger_Template.csv`, and `Stripe_Setup_Guide.pdf`.
